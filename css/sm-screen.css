@@ -1,0 +1,36 @@
+@media screen and (min-width :576px) and (max-width :767.98px){
+.about-right h3{
+    padding-top: 0.8rem;
+}
+.about-card .card{
+    width: 33rem !important;
+    position: relative;
+    left: -1rem;
+}
+.img{
+    width: 34rem ;
+    position: relative;
+    left: -1rem;
+
+}
+.img-layer .card-header {
+    width: 30rem !important;
+    position: relative;
+    left: 2rem;
+    }
+    .planBox,.plan{
+        margin-bottom: 1.5rem;
+    }
+    .address{
+        margin-bottom: 1.5rem;
+    }
+    .footerlist h6{
+        margin-top: 1.5rem;
+    }
+    .lfooter{
+        margin-top: .5rem;
+    
+        text-align: start;
+    }
+
+}
